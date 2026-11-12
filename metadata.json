@@ -1,0 +1,6 @@
+{
+  "name": "SHIMOTA TV",
+  "description": "منصة سينمائية فاخرة للأفلام والمسلسلات مع مشغل HLS/MP4 ودعم اللغات وقوائم المشاهدة وVIP",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
